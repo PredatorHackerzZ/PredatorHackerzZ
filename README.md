@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @P-Phreak
 - 👀 I’m interested in ...Hacking 
 - 🌱 I’m currently learning ...Hacking cOurses
-- 💞️ I’m looking to collaborate on ... infotel group
+- 💞️ I’m looking to collaborate on ... Microsoft
 - 📫 How to reach me ... https://t.me/predatorHackerzZ
 
 <!---
