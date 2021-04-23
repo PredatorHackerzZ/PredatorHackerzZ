@@ -18,4 +18,4 @@
 - ⚠️ <b>мιѕтαкєѕ нαρρєи</b> 🤷‍♂️
 
   [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ..ㅤping@-TeleRoidGroup-RED.svg)](https://telegram.dog/TeleRoidGroup)
-[! [PROFILE] (https://telegra.ph/file/974ad7df78695a4eaaf3a.jpg) 
+[! [PROFILE(https://img.shields.io/badge/PROFILE-30302f?style=flat&logo=telegram)] (https://telegra.ph/file/974ad7df78695a4eaaf3a.jpg) 
