@@ -1,4 +1,7 @@
-### 𝓗σ𝓛ค  💜✋
+### ℍ𝕖𝕝𝕝𝕠.... 
+
+𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕳𝖆𝖑𝖑𝖔𝖜𝖊𝖊𝖓!!!
+
 
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/P-Phreak) [![telegram badge](https://img.shields.io/badge/꧁✧ƤℜɆĐ₳₮Øℜ✧꧂-30302f?style=flat&logo=telegram)](https://telegram.dog/PredatorHackerzZ_bot)
 
@@ -12,9 +15,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/P-Phreak?style=social)     ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/P-Phreak/)
 
-- 👨‍💼 𝓕𝓻𝓮𝓮𝓵𝓪𝓷𝓬𝓮  𝔀𝓸𝓻𝓴𝓮𝓻.
-- 🌚 <b>nσσв cσdєr</b>
+- 👨‍💼 Ŧгєєɭคภςє ฬ๏гкєг.
+- 👨‍💻 <b>nσσв cσdєr</b>
 - 📚 <b>trчíng 2 lєαrn</b> 🚶🏻‍♂️🚶🏻‍♂️
-- ⚠️ <b>мιѕтαкєѕ нαρρєи</b> 🤷‍♂️
+- 🛡 <b>мιѕтαкєѕ нαρρєи</b> 🤷‍♂️
 
-  [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ..ㅤping@-TeleRoidGroup-RED.svg)](https://telegram.dog/TeleRoidGroup)
+  [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ.ping@-TeleRoidGroup-RED.svg)](https://telegram.dog/TeleRoidGroup)
