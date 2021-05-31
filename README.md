@@ -3,13 +3,13 @@
 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕳𝖆𝖑𝖑𝖔𝖜𝖊𝖊𝖓!!!
 
 
-[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/P-Phreak) [![telegram badge](https://img.shields.io/badge/꧁✧ƤℜɆĐ₳₮Øℜ✧꧂-30302f?style=flat&logo=telegram)](https://telegram.dog/PredatorHackerzZ_bot)
+[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/P-Phreak)[![telegram badge](https://img.shields.io/badge/꧁✧ƤℜɆĐ₳₮Øℜ✧꧂-30302f?style=flat&logo=telegram)](https://telegram.dog/PredatorHackerzZ)
 
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=P-Phreak&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-## Please note: My popular repositories are at [TeamTeleRoid](https://GitHub.com/TeamTeleRoid) & [Predator HackerzZ](https://github.com/P-Phreak)
+## Please note: My popular repositories are at [TeamTeleRoid](https://GitHub.com/TeamTeleRoid) [Predator HackerzZ](https://github.com/P-Phreak)
                 
 
 
@@ -18,6 +18,6 @@
 - 👨‍💼 Ŧгєєɭคภςє ฬ๏гкєг.
 - 👨‍💻 <b>nσσв cσdєr</b>
 - 📚 <b>trчíng 2 lєαrn</b> 🚶🏻‍♂️🚶🏻‍♂️
-- 🛡 <b>мιѕтαкєѕ нαρρєи</b> 🤷‍♂️
+- 🛡 <b>still мιѕтαкєѕ нαρρєи</b> 🤷‍♂️
 
   [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ.ping@-TeleRoidGroup-RED.svg)](https://telegram.dog/TeleRoidGroup)
