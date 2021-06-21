@@ -7,7 +7,7 @@
 
 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=P-Phreak&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=PredatorHackerzZ&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Please note: My popular repositories are [𝙏𝙚𝙖𝙢𝙏𝙚𝙡𝙚𝙍𝙤𝙞𝙙](https://GitHub.com/TeamTeleRoid) 𝙖𝙣𝙙 [𝙋𝙧𝙚𝙙𝙖𝙩𝙤𝙧𝙃𝙖𝙘𝙠𝙚𝙧𝙯𝙕](https://github.com/PredatorHackerzZ)
                 
