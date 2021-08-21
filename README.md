@@ -28,3 +28,5 @@
 - 🛡 <b>still мιѕтαкєѕ нαρρєи</b> 🤷‍♂️
 
   [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ.ping@-TeleRoidGroup-RED.svg)](https://telegram.dog/TeleRoidGroup)
+
+[![Donate](https://telegra.ph/file/7eff7814f064869f4b88e.jpg)](https://paypal.me/AbhishekKumarIN47) 
