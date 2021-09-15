@@ -3,7 +3,7 @@
 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕳𝖆𝖑𝖑𝖔𝖜𝖊𝖊𝖓!!!
 
 
-[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/PredatorHackerzZ)[![telegram badge](https://img.shields.io/badge/꧁✧ƤℜɆĐ₳₮Øℜ✧꧂-30302f?style=flat&logo=telegram)](https://telegram.dog/PredatorHackerzZ)
+[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/PredatorHackerzZ)[![telegrambadge](https://img.shields.io/badge/ρяє∂αтσя-30302f?style=flat&logo=telegram)](https://telegram.dog/PredatorHackerzZ)
 
 
 
