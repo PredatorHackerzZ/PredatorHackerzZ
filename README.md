@@ -1,6 +1,6 @@
 ### ℍ𝕖𝕝𝕝𝕠.... 
 
-𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕳𝖆𝖑𝖑𝖔𝖜𝖊𝖊𝖓!!!
+𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 𝐓𝐞𝐥𝐞𝐑𝐨𝐢𝐝𝐆𝐫𝐨𝐮𝐩 𝐗𝐞𝐧𝐨𝐩𝐢𝐚!!!
 
 
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/PredatorHackerzZ)[![telegrambadge](https://img.shields.io/badge/ρяє∂αтσя-30302f?style=flat&logo=telegram)](https://telegram.dog/PredatorHackerzZ)
