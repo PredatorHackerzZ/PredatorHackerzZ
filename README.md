@@ -1,4 +1,4 @@
-### ℍ𝕖𝕝𝕝𝕠.... 
+### нєℓℓσ 🙋‍♂️.... 
 
 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 𝐓𝐞𝐥𝐞𝐑𝐨𝐢𝐝𝐆𝐫𝐨𝐮𝐩 𝐗𝐞𝐧𝐨𝐩𝐢𝐚!!!
 
@@ -22,11 +22,11 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/PredatorHackerzZ?style=social)     ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PredatorHackerzZ/)
 
-- 👨‍💼 Ŧгєєɭคภςє ฬ๏гкєг.
-- 👨‍💻 <b>nσσв cσdєr</b>
-- 📚 <b>trчíng 2 lєαrn</b> 🚶🏻‍♂️🚶🏻‍♂️
-- 🛡 <b>still мιѕтαкєѕ нαρρєи</b> 🤷‍♂️
+- 👨‍💼 Ŧгєєʟᴀɴᴄᴇ 𝚆𝚘𝚛𝚔𝚎𝚛 .
+- 👨‍💻 <b>nσσв ᴀs ɴᴜʙ cσdєr</b>
+- 📚 <b>ᴛʀʏɪɴɢ 𝟸 ʙᴇᴛᴛᴇʀ ʟᴇᴀʀɴ</b> 🚶🏻‍♂️
+- 🛡 <b>ʂƚιʅʅ ɱιʂƚαƙҽʂ ԋαρρҽɳʂ</b> 🤷‍♂️
 
-  [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ.ping@-TeleRoidGroup-RED.svg)](https://telegram.dog/TeleRoidGroup)
+[![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ.ping@-TeleRoidGroup-RED.svg)](https://telegram.dog/TeleRoidGroup)
 
 [![Donate](https://telegra.ph/file/7eff7814f064869f4b88e.jpg)](https://paypal.me/AbhishekKumarIN47) 
