@@ -27,4 +27,4 @@
 
 [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ.ping@-TeleRoidGroup-RED.svg)](https://telegram.dog/TeleRoid14)
 
-[![Donate](https://telegra.ph/file/7a390fcb2d157ff5fd501.jpg)](https://paypal.me/AbhishekKumarIN47) 
+[![Donate](https://telegra.ph/file/08e9e56fa1f1fc3b3df21.jpg)](https://paypal.me/AbhishekKumarIN47) 
