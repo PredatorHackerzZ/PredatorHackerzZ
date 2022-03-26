@@ -21,9 +21,12 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/PredatorHackerzZ?style=social)     ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PredatorHackerzZ/)
 
-➣ 👨‍💼 Ŧгєєʟᴀɴᴄᴇ W𝚘𝚛𝚔𝚎𝚛.
+➣ 👨‍💼 <b>Ŧгєєʟᴀɴᴄᴇ Wøг𝚔єr.</b>
+
 ➣ 👨‍💻 <b>Nòóв As Nᴜʙ Cødєr</b>
+
 ➣ 📚 <b>Tʀʏɪɴɢ 𝟸 Lᴇᴀʀɴ Bᴇᴛᴛᴇʀ </b> 🚶🏻‍♂️
+
 ➣ 🛡 <b>Sƚιʅʅ MîʂƚΑƙҽ Hαρρҽɳʂ</b> 🤷‍♂️
 
 [![Generic badge](https://img.shields.io/badge/AnyDoubts.ping-@TeleRoidGroup-RED.svg)](https://telegram.dog/TeleRoid14)
@@ -31,4 +34,5 @@
 ## 💰 Support Me Or Donate Me!... 💎
 
 <a href="https://ko-fi.com/Abhishekkumarin47" class="padded"><img height="30" style="border:0px;height:25px;" align="left" alt="predatorHackerzZ" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
+
 <a href="https://paypal.me/AbhishekKumarIN47" class="padded"><img height="30" style="border:0px;height:25px;" align="centre" alt="predatorHackerzZ" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
