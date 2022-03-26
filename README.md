@@ -1,7 +1,7 @@
-### Hєℓℓσ 👋.... 
-<h2>Hey there <img src="https://github.com/MaxxRider/MaxxRider/blob/main/master/Helplessboi.gif" width="30px"></h2>
-𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 𝐓𝐞𝐥𝐞𝐑𝐨𝐢𝐝𝐆𝐫𝐨𝐮𝐩 𝐗𝐞𝐧𝐨𝐩𝐢𝐚!!!
+<h2>Hey there 👋</h2>
 
+<img src="https://github.com/PredatorHackerzZ/PredatorHackerzZ/blob/main/Profile/HelpLessBoi.gif" width="900px">
+𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 𝐓𝐞𝐥𝐞𝐑𝐨𝐢𝐝𝐆𝐫𝐨𝐮𝐩 𝐗𝐞𝐧𝐨𝐩𝐢𝐚!!!
 
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/PredatorHackerzZ)[![telegrambadge](https://img.shields.io/badge/Pʀᴇᴅᴀᴛᴏʀ-30302f?style=flat&logo=telegram)](https://telegram.dog/PredatorHackerzZ)
 
@@ -22,12 +22,12 @@
 
 - 👨‍💼 Ŧгєєʟᴀɴᴄᴇ 𝚆𝚘𝚛𝚔𝚎𝚛 .
 - 👨‍💻 <b>Nσσв ᴀs ɴᴜʙ Cσdєr</b>
-- 📚 <b>ᴛʀʏɪɴɢ 𝟸 ʙᴇᴛᴛᴇʀ ʟᴇᴀʀɴ</b> 🚶🏻‍♂️
-- 🛡 <b>ʂƚιʅʅ ɱιʂƚαƙҽʂ Hαρρҽɳʂ</b> 🤷‍♂️
+- 📚 <b>Tʀʏɪɴɢ 𝟸 ʙᴇᴛᴛᴇʀ ʟᴇᴀʀɴ</b> 🚶🏻‍♂️
+- 🛡 <b>Sƚιʅʅ ɱιʂƚαƙҽʂ Hαρρҽɳʂ</b> 🤷‍♂️
 
-[![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ.ping@-TeleRoidGroup-RED.svg)](https://telegram.dog/TeleRoid14)
+[![Generic badge](https://img.shields.io/badge/AnyDoubts.ping-@TeleRoidGroup-RED.svg)](https://telegram.dog/TeleRoid14)
 
 ## 💰 Support Me
 
-<a href="https://ko-fi.com/Abhishekkumarin47" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="predatorHackerzZ" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
-<a href="https://paypal.me/AbhishekKumarIN47" class="padded"><img height="30" style="border:0px;height:30px;" align="centre" alt="predatorHackerzZ" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
+<a href="https://ko-fi.com/Abhishekkumarin47" class="padded"><img height="30" style="border:0px;height:25px;" align="left" alt="predatorHackerzZ" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
+<a href="https://paypal.me/AbhishekKumarIN47" class="padded"><img height="30" style="border:0px;height:25px;" align="centre" alt="predatorHackerzZ" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
