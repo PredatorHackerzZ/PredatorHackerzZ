@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PredatorHackerzZ&label=Profile%20Views&color=0e75b6&style=flat" alt="PredatorHackerzZ" /> </p>
 
 <p align="middle">
-<img src="https://telegra.ph/file/024846dd18debc64c91e8.jpg" width="150" height="150"><br>
+<img src="https://telegra.ph/file/19567db62ee526ea1eaf7.jpg" width="150" height="150"><br>
 <img src="https://badgen.net/badge/Name/PredatorHackerzZ/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/python/Red?icon=terminal&labelColor=blue"></a>
 <a href="https://github.com/PredatorHackerzZ"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=Green"></a>
@@ -36,6 +36,8 @@
 <a href="https://ko-fi.com/Abhishekkumarin47" class="padded"><img height="30" style="border:0px;height:25px;" align="left" alt="predatorHackerzZ" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
 
 <a href="https://paypal.me/AbhishekKumarIN47" class="padded"><img height="30" style="border:0px;height:25px;" align="centre" alt="predatorHackerzZ" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
+
+**UPI** :- ```MrAbhi2k3@apl```
 
 <div align="center">
 
