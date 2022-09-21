@@ -2,7 +2,7 @@
 
 <img src="https://github.com/PredatorHackerzZ/PredatorHackerzZ/blob/main/Profile/HelpLessBoi.gif" width="900px">
 
-# Welcome To My proFile!!!
+# Welcome To My ProFile!!!
 
 [![Generic badge](https://img.shields.io/badge/REACH-ME-@<COLOR>.svg)](https://github.com/PredatorHackerzZ)[![telegrambadge](https://img.shields.io/badge/Pʀᴇᴅᴀᴛᴏʀ-30302f?style=flat&logo=telegram)](https://telegram.dog/PredatorHackerzZ)
 
