@@ -37,7 +37,7 @@
 
 <a href="https://paypal.me/AbhishekKumarIN47" class="padded"><img height="30" style="border:0px;height:25px;" align="centre" alt="predatorHackerzZ" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
 
-**UPI** :- ```MrAbhi2k3@apl```
+**UPI & Google Pay** :- ```MrAbhi2k3@apl```
 
 <div align="center">
 
