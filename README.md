@@ -33,7 +33,7 @@
 
 <a href="https://paypal.me/AbhishekKumarIN47" class="padded"><img height="30" style="border:0px;height:25px;" align="centre" alt="predatorHackerzZ" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
 
-**UPI** :- ```MrAbhi2k3@apl```
+**UPI** :- ```MrAbhi2k3@apl``` & ```teleroidgroup@axl```
 <br/>
 **Google Pay** :- ```sk7062563@okhdfcbank```
 
@@ -53,7 +53,10 @@
 <h3 align="left">Languages :</h3>
 <p align="left"> 
 <a href="https://www.tutorialspoint.com/cprogramming" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="65" height="65"/> </a> 
-<a href="https://www.tutorialspoint.com/cplusplus" target="_blank"> <img src="https://github.com/PredatorHackerzZ/TG-FileStore/assets/77227205/cbcb3613-d559-4a6c-9d27-a22e551d9473" alt="C++" width="65" height="65"/> </a> 
+<a href="https://www.tutorialspoint.com/cplusplus" target="_blank"> <img src="https://github.com/PredatorHackerzZ/TG-FileStore/assets/77227205/cbcb3613-d559-4a6c-9d27-a22e551d9473" alt="C++" width="65" height="65"/> </a>
+
 <a href="https://www.html.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="65" height="65"/> </a> 
+<a href="https://www.html.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="HTML5" width="65" height="65"/> </a> 
+<a href="https://www.html.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="HTML5" width="65" height="65"/> </a> 
 </p>
 
