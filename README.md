@@ -29,13 +29,13 @@
 
 ## 💰 Support Me Or Donate Me!... 💎
 
-<a href="https://ko-fi.com/Abhishekkumarin47" class="padded"><img height="30" style="border:0px;height:25px;" align="center" alt="predatorHackerzZ" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
+**<a href="https://ko-fi.com/Abhishekkumarin47" class="padded"><img height="30" style="border:0px;height:25px;" align="center" alt="predatorHackerzZ" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>**
 
-<a href="https://paypal.me/AbhishekKumarIN47" class="padded"><img height="30" style="border:0px;height:25px;" align="centre" alt="predatorHackerzZ" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
+**<a href="https://paypal.me/AbhishekKumarIN47" class="padded"><img height="30" style="border:0px;height:25px;" align="centre" alt="predatorHackerzZ" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>**
 
-**UPI** :- ```MrAbhi2k3@apl``` & ```teleroidgroup@axl```
+**<img height="30" style="border:0px;height:25px;" align="center" alt="predatorHackerzZ" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/upi_logo_icon_169316.png"></img> UPI :- ```MrAbhi2k3@apl``` & ```teleroidgroup@axl```**
 <br/>
-**Google Pay** :- ```sk7062563@okhdfcbank```
+**Google Pay** :- **```sk7062563@okhdfcbank```**
 
 <div align="left">
 
