@@ -72,10 +72,6 @@
 
 <br/>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PredatorHackerzZ&theme=github_dark&custom_title=ــــــــــــــــــہہـ٨ـہہـ٨ـﮩـــ&layout=compact&hide_border=false" alt="Top Languages">
-</div>
-
 <h3 align="left">Cloud & Hosts:</h3>
 <p align="left">
   <a href="https://github.com/" target="_blank">
@@ -147,9 +143,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=predatorhackerzz&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PredatorHackerzZ&theme=github_dark&custom_title=ــــــــــــــــــہہـ٨ـہہـ٨ـﮩـــ&layout=compact&hide_border=false" alt="Top Languages">
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=predatorhackerzz&" alt="GitHub Streak Stats">
