@@ -6,7 +6,7 @@
   <a href="https://github.com/PredatorHackerzZ">
     <img src="https://img.shields.io/badge/REACH-ME-@<COLOR>.svg" alt="Reach me">
   </a>
-  <a href="https://tx.me/MrAbhi2k3">
+  <a href="https://tx.me/PredatorHacker">
     <img src="https://img.shields.io/badge/Pʀᴇᴅᴀᴛᴏʀ-30302f?style=flat&logo=telegram" alt="Telegram">
   </a>
 </p>
@@ -29,7 +29,7 @@
   <a href="https://instagram.com/cod3sofabhi" target="blank">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-instagram-1868978-1583142.png" alt="cod3sofabhi" height="50" width="60" />
   </a>
-  <a href="https://telegram.me/HelpLessBoi" target="blank">
+  <a href="https://telegram.me/PredatorHacker" target="blank">
     <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTKAE2op_kK1kSFn6jgPEeBIE7phPDgknJVxavcNRAFw&s" alt="cod3sofabhi" height="50" width="60" />
   </a>
 </p>
